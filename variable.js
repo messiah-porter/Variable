@@ -6,8 +6,8 @@ num = num + 7;//22
 num--;
 num = "This is not a number";
 
-let blank;
-blank = 0;
+let blank;//Undefined
+blank = 0;//0
 console.log(blank);
 
 // console.log(num);
